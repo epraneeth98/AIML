@@ -1,1 +1,1 @@
-# AIML
+# AI and ML
